@@ -47,3 +47,6 @@ Changes the group owner to school for the file hello.
 
 ## 14-change_owner_and_group
 Changes owner to vincent and group to staff for all files and directories in the working directory.
+
+## 15-symbolic_link_permissions
+Changes owner to vincent and group to staff for the symbolic link _hello (using -h flag).
