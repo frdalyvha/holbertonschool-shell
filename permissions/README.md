@@ -23,3 +23,6 @@ Adds execute permission to owner, group owner, and other users for the file hell
 
 ## 7-everybody
 Adds execute permission to owner, group owner, and other users for the file hello.
+
+## 8-James_Bond
+Sets permission to hello: owner none, group none, others all (rwx).
