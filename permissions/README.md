@@ -44,3 +44,6 @@ Creates a directory called my_dir with permissions 751 in the working directory.
 
 ## 13-change_group
 Changes the group owner to school for the file hello.
+
+## 14-change_owner_and_group
+Changes owner to vincent and group to staff for all files and directories in the working directory.
