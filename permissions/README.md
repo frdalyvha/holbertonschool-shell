@@ -35,3 +35,6 @@ Sets the mode of hello to -rwxr-x-wx (753).
 
 ## 10-mirror_permissions
 Sets the mode of hello to match the mode of olleh.
+
+## 11-directories_permissions
+Adds execute permission to all subdirectories of the current directory for owner, group, and others. Regular files unchanged.
