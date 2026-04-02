@@ -17,3 +17,6 @@ Adds execute permission to the owner of the file hello.
 
 ## 6-multiple_permissions
 Adds execute permission to owner and group owner, and read permission to other users, to the file hello.
+
+## 7-everybody
+Adds execute permission to owner, group owner, and other users for the file hello.
