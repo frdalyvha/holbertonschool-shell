@@ -50,3 +50,6 @@ Changes owner to vincent and group to staff for all files and directories in the
 
 ## 15-symbolic_link_permissions
 Changes owner to vincent and group to staff for the symbolic link _hello (using -h flag).
+
+## 16-if_only
+Changes owner of hello to vincent only if it is owned by guillaume.
