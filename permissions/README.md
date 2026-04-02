@@ -38,3 +38,6 @@ Sets the mode of hello to match the mode of olleh.
 
 ## 11-directories_permissions
 Adds execute permission to all subdirectories of the current directory for owner, group, and others. Regular files unchanged.
+
+## 12-directory_permissions
+Creates a directory called my_dir with permissions 751 in the working directory.
