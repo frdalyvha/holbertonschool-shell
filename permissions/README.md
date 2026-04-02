@@ -32,3 +32,6 @@ Sets permission to hello: owner none, group none, others all (rwx).
 
 ## 9-John_Doe
 Sets the mode of hello to -rwxr-x-wx (753).
+
+## 10-mirror_permissions
+Sets the mode of hello to match the mode of olleh.
