@@ -1,2 +1,2 @@
 # Permissions scripts
-This folder contains shell scripts for managing permissions.
+## 0-iam_betty - switches user to betty
