@@ -15,3 +15,6 @@ Counts the number of directories in the PATH.
 
 ## 3-paths
 Counts the number of directories in the PATH (ignoring empty entries).
+
+## 4-global_variables
+Lists all environment variables.
