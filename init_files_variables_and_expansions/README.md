@@ -42,3 +42,6 @@ Converts a number from base 2 to base 10 using BINARY environment variable.
 
 ## 12-combinations
 Prints all combinations of two letters except 'oo'.
+
+## 12-combinations
+Prints all combinations of two letters except 'oo'.
