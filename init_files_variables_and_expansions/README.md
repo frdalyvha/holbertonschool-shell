@@ -48,3 +48,6 @@ Prints all combinations of two letters except 'oo'.
 
 ## 12-combinations
 Prints all combinations of two letters except 'oo'.
+
+## 13-print_float
+Prints the number stored in NUM with two decimal places.
