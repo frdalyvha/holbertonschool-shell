@@ -27,3 +27,6 @@ Creates a local variable BEST with value School.
 
 ## 7-create_global_variable
 Creates a global (environment) variable BEST with value School.
+
+## 8-true_knowledge
+Prints the result of 128 + the value in environment variable TRUEKNOWLEDGE.
