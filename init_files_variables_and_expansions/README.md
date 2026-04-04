@@ -36,3 +36,6 @@ Prints the result of POWER divided by DIVIDE (integer division).
 
 ## 10-love_exponent_breath
 Prints BREATH raised to the power LOVE.
+
+## 11-binary_to_decimal
+Converts a number from base 2 to base 10 using BINARY environment variable.
