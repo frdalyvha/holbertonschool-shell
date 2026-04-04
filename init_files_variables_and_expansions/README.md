@@ -3,3 +3,6 @@ Scripts for aliases, variables, and expansions.
 
 ## 0-alias
 Creates an alias 'ls' that runs 'rm -f *'.
+
+## 1-hello_you
+Prints 'hello' followed by the current Linux user.
