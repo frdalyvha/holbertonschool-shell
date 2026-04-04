@@ -54,3 +54,6 @@ Prints the number stored in NUM with two decimal places.
 
 ## 13-print_float
 Prints the number stored in NUM with two decimal places.
+
+## 14-decimal_to_hexadecimal
+Converts a number from base 10 to base 16 (hexadecimal).
