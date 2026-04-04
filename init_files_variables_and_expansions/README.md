@@ -12,3 +12,6 @@ Adds /action to the PATH as the last directory.
 
 ## 3-paths
 Counts the number of directories in the PATH.
+
+## 3-paths
+Counts the number of directories in the PATH (ignoring empty entries).
