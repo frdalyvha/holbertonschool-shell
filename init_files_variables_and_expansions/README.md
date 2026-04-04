@@ -33,3 +33,6 @@ Prints the result of 128 + the value in environment variable TRUEKNOWLEDGE.
 
 ## 9-divide_and_rule
 Prints the result of POWER divided by DIVIDE (integer division).
+
+## 10-love_exponent_breath
+Prints BREATH raised to the power LOVE.
